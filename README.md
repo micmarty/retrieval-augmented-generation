@@ -4,7 +4,11 @@
 
 
 ## C4 Model
-![C4 - System Context Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---q1ksYYwjsTs_lzYbEJ_Tm---figure---mPgKRhuh0vGxKwTjDj6nqQ.png "C4 - System Context Diagram")
+![C4 - System Context Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---hOdaSDrKhOTH0SOy4Mm1u---figure---mPgKRhuh0vGxKwTjDj6nqQ.png "C4 - System Context Diagram")
+
+![C4 - Containers Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---DbpCcroolqs3eprxLO_Eu---figure---75Q234-1_wZyPSTkCR1icA.png "C4 - Containers Diagram")
+
+![C4 - Components Diagram for AWS](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---UNqK_ISQWe6vWZifUAIv3---figure---lmdmB7RN964Vsk-u70BiMw.png "C4 - Components Diagram for AWS")
 
 
 
