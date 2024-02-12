@@ -5,15 +5,36 @@
 
 ## C4 Model
 ### System Context Diagram
-![C4 - System Context Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---6LsI5DZCwKC_zJJP2L_EJ---figure---mPgKRhuh0vGxKwTjDj6nqQ.png "C4 - System Context Diagram")
+![C4 - System Context Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---NlQBko-QDotMFq-CzFjnA---figure---mPgKRhuh0vGxKwTjDj6nqQ.png "C4 - System Context Diagram")
 
 ### Containers Diagram
-![C4 - Containers Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---WtKwJqF9s0SA8xpFkFy_q---figure---75Q234-1_wZyPSTkCR1icA.png "C4 - Containers Diagram")
+![C4 - Containers Diagram](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---SL95cZXgWVBY7vQ_r0xy6---figure---75Q234-1_wZyPSTkCR1icA.png "C4 - Containers Diagram")
 
 ### Components Diagram
-![C4 - Components Diagram for AWS](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---v4XNbgs310t6p9Wevtr6i---figure---lmdmB7RN964Vsk-u70BiMw.png "C4 - Components Diagram for AWS")
+![C4 - Components Diagram for AWS](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---HwXAB9Cm7wZB-CI4soeOX---figure---lmdmB7RN964Vsk-u70BiMw.png "C4 - Components Diagram for AWS")
 
 
+
+## Architecture diagrams found on the Internet
+### Kendra + Bedrock 
+[﻿itnext.io/building-a-rag-enabled-chatbot-using-aws-bedrock-lex-and-kendra-3add845e5ad6](https://itnext.io/building-a-rag-enabled-chatbot-using-aws-bedrock-lex-and-kendra-3add845e5ad6) 
+
+![Basic example](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---IydkNmbUHkuX7a3dOjUnk---figure---639apRGmCavxKNLgHtYEDg.png "Basic example")
+
+### SageMaker
+[﻿d1.awsstatic.com/solutions/guidance/architecture-diagrams/chatbots-with-vector-databases-on-aws.pdf](https://d1.awsstatic.com/solutions/guidance/architecture-diagrams/chatbots-with-vector-databases-on-aws.pdf) 
+
+![SageMaker Example](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---DIF8YY-Zwzqj-DBVCceTy---figure---N984-BqbeHD7e94nCgCpHw.png "SageMaker Example")
+
+### OpenSearch
+[﻿aws.amazon.com/solutions/guidance/text-generation-using-embeddings-from-enterprise-data-on-aws/?did=sl_card&trk=sl_card](https://aws.amazon.com/solutions/guidance/text-generation-using-embeddings-from-enterprise-data-on-aws/?did=sl_card&trk=sl_card) 
+
+![OpenSearch Example](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---uote679Kf_AHzJ_pIWBjb---figure---liz8iq9VGw7CHjtvRga73A.png "OpenSearch Example")
+
+### Lex + Kendra + SageMaker 
+[﻿d1.awsstatic.com/solutions/guidance/architecture-diagrams/conversational-chatbots-using-retrieval-augmented-generation-on-aws.pdf](https://d1.awsstatic.com/solutions/guidance/architecture-diagrams/conversational-chatbots-using-retrieval-augmented-generation-on-aws.pdf) 
+
+![Kendra Example](/.eraser/wEP80tOUHl9jDiiwQJce___a2V51oisIKTd1bHouUJQVoK31YI2___---figure---kbISba_Zb9zTPItuDprxC---figure---2aF85p6_r_5Lt47-MqpmWA.png "Kendra Example")
 
 
 
